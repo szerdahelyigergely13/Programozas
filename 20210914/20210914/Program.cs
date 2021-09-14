@@ -48,11 +48,14 @@ namespace _20210914
             {
 
             }
-            int b = int.Parse(Console.ReadLine());
+            int b = 2;
             {
 
             }
-
+            int d = a * b;
+            {
+                Console.WriteLine("Szorzott szám={0}", d);
+            }
         }
     }
 }
