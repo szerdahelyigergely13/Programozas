@@ -13,8 +13,9 @@ namespace _20210914
         {
 
             //feladat1();
-
-
+            //feladat2();
+            //feladat3();
+            feladat4();
 
 
             Console.WriteLine("ENTER");
@@ -24,11 +25,34 @@ namespace _20210914
         {
             Console.WriteLine("Hello world!");
 
+
+
+        }
+        static void feladat2()
+        {
             Console.WriteLine("Írd be a neved!");
             Console.ReadLine();
             Console.WriteLine("Hello!");
+        }
+        static void feladat3()
+        {
+            Console.WriteLine("Írd be a neved!");
+            Console.ReadLine();
+
+            Console.WriteLine("Hello!");
+        }
+        static void feladat4()
+        {
+            Console.WriteLine("Írj be egy számot!");
+            int a = int.Parse(Console.ReadLine());
+            {
+
+            }
+            int b = int.Parse(Console.ReadLine());
+            {
+
+            }
 
         }
-
     }
 }
