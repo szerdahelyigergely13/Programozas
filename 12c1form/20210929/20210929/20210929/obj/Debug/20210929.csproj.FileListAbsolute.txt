@@ -1,0 +1,10 @@
+Z:\programozás\12c1form\20210929\20210929\20210929\bin\Debug\20210929.exe.config
+Z:\programozás\12c1form\20210929\20210929\20210929\bin\Debug\20210929.exe
+Z:\programozás\12c1form\20210929\20210929\20210929\bin\Debug\20210929.pdb
+Z:\programozás\12c1form\20210929\20210929\20210929\obj\Debug\20210929.csprojAssemblyReference.cache
+Z:\programozás\12c1form\20210929\20210929\20210929\obj\Debug\_20210929.Form1.resources
+Z:\programozás\12c1form\20210929\20210929\20210929\obj\Debug\_20210929.Properties.Resources.resources
+Z:\programozás\12c1form\20210929\20210929\20210929\obj\Debug\20210929.csproj.GenerateResource.cache
+Z:\programozás\12c1form\20210929\20210929\20210929\obj\Debug\20210929.csproj.CoreCompileInputs.cache
+Z:\programozás\12c1form\20210929\20210929\20210929\obj\Debug\20210929.exe
+Z:\programozás\12c1form\20210929\20210929\20210929\obj\Debug\20210929.pdb
