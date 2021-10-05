@@ -1,0 +1,7 @@
+Z:\programozás\12c1\20211005\20211005\20211005\bin\Debug\20211005.exe.config
+Z:\programozás\12c1\20211005\20211005\20211005\bin\Debug\20211005.exe
+Z:\programozás\12c1\20211005\20211005\20211005\bin\Debug\20211005.pdb
+Z:\programozás\12c1\20211005\20211005\20211005\obj\Debug\20211005.csprojAssemblyReference.cache
+Z:\programozás\12c1\20211005\20211005\20211005\obj\Debug\20211005.csproj.CoreCompileInputs.cache
+Z:\programozás\12c1\20211005\20211005\20211005\obj\Debug\20211005.exe
+Z:\programozás\12c1\20211005\20211005\20211005\obj\Debug\20211005.pdb
